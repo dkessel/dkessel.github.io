@@ -1,6 +1,6 @@
 # Daniel Kessel
 
-* Open Source Enthusiast
+* Open Source Fan
 * Software Developer
 * Software Architect
 * Critical Thinker
